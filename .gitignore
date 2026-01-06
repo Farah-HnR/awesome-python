@@ -5,5 +5,9 @@
 docs/index.md
 site/
 
+# vendor
+vendor/
+vendor
+
 # PyCharm IDE
 .idea
